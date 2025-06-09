@@ -25,7 +25,7 @@ Ayush Mazumdar
 ⮞ Obsessed with ideas that turn heads and spark minds
 ```
 🧠 Thought Fabric
-mermaid
+```mermaid
 Copy
 Edit
 graph TD;
@@ -33,32 +33,41 @@ graph TD;
     Code -->|Forge| Creation;
     Creation -->|Iterate| Imagination;
     Imagination -->|Inspire| Ideas;
+```
 ⚒️ In My Lab
 🌐 CampusVerse
+
 🎮 Obstacle Mania
+
 🎓 Scholar’s Playground
+
 📦 Pokedex
 
 Each a different reality. Each a new experiment.
-
 Dive into the mind behind the machine: aysh-mzmdr.github.io
 
 🌌 Digital Soul
-txt
-Copy
-Edit
-Languages:     C++, Python, JavaScript, Solidity, C#
-Frameworks:    React, Node.js, Express, Unity, GSAP, 3js
-Tools:         Kali Linux, Git, PostgreSQL, Blender, Figma
-Soft Powers:   Tenacity, Vision, Curiosity
+Languages:
+C++, Python, JavaScript, Solidity, C#
+
+Frameworks:
+React, Node.js, Express, Unity, GSAP, 3js
+
+Tools:
+Kali Linux, Git, PostgreSQL, Blender, Figma
+
+Soft Powers:
+Tenacity, Vision, Curiosity
+
 🗝️ Philosophy
-txt
-Copy
-Edit
 🚫 Templates bore me.
+
 🚀 I build for awe.
+
 🔍 I observe before I disrupt.
+
 🔥 If it doesn’t spark wonder, it isn’t done.
+
 🌀 Connect or Collide
 You’re either creating the storm or watching it pass.
 
@@ -70,4 +79,4 @@ You’re either creating the storm or watching it pass.
 
 👾 GitHub
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
