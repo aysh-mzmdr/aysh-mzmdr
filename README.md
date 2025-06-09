@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/aysh-mzmdr/aysh-mzmdr/assets/0000000/placeholder" width="400" alt="mystic banner"/>
+  <img src="https://github.com/aysh-mzmdr/aysh-mzmdr/assets/1.svg" width="400" alt="Banner"/>
 </p>
 
 ---
