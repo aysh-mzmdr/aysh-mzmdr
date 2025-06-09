@@ -33,21 +33,4 @@ graph TD;
     Imagination -->|Inspire| Ideas;
 ```
 
-## 🌀 Connect or Collide — Choose Your Path
-```
-╔════════════════════════════════════════════════════════════════╗
-║                     ⚡ Reach out & connect ⚡                    ║
-╠════════════════════════════════════════════════════════════════╣
-║ ✉️  Email     │  [ayush.mazumdar111@gmail.com](mailto:ayush.mazumdar111@gmail.com)               ║
-║ 🌐 Portfolio │  [aysh-mzmdr.github.io](https://aysh-mzmdr.github.io)                           ║
-║ 💼 LinkedIn  │  [linkedin.com/in/ayush-mazumdar-3735b731b](https://www.linkedin.com/in/ayush-mazumdar-3735b731b/) ║
-║ 👾 GitHub    │  [github.com/aysh-mzmdr](https://github.com/aysh-mzmdr)                            ║
-╚════════════════════════════════════════════════════════════════╝
-```
-<details> <summary>✨ Pro Tip: Hover over the links — and let the digital magic begin ✨</summary>
-Every click is a portal. Every visit, a spark. Your journey starts here.
-
-</details>
-
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
