@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=30&duration=2000&pause=1000&color=00FFD9&center=true&vCenter=true&width=800&height=70&lines=%E2%9C%A8+Hello+There!+%E2%9C%A8;%E2%9C%A8+Welcome+to+my+Profile!!+%E2%9C%A8" alt="Typing SVG">
-</h1>
-
 <p align="center">
   <img src="https://github.com/aysh-mzmdr/aysh-mzmdr/blob/main/1.png" alt="Banner"/>
 </p>
