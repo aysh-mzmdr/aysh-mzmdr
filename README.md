@@ -34,14 +34,10 @@ graph TD;
 ```
 ## ⚒️ In My Lab — Where Realities Collide
 
-> _“Each project is a universe — forged, explored, and brought to life.”_
 
 | 🌐 **CampusVerse**       | 🎮 **Obstacle Mania**      | 🎓 **Scholar’s Playground** | 📦 **Pokedex**            |
 |-------------------------|----------------------------|-----------------------------|---------------------------|
 | [Explore the campus](https://aysh-mzmdr.github.io/CampusVerse/) | [Dodge the impossible](https://aysh-mzmdr.github.io/ObstacleMania/) | [Learn & play](https://aysh-mzmdr.github.io/Scholars_Playground/) | [Catch ’em all](https://aysh-mzmdr.github.io/Pokedex/) |
-
-✨ _Enter the labyrinth of code and creativity:_  
-👉 [**aysh-mzmdr.github.io**](https://aysh-mzmdr.github.io/)
 
 ---
 
@@ -61,11 +57,6 @@ graph TD;
 ║ SOFT POWERS   ║  Tenacity   ·   Vision   ·   Curiosity   ║
 ╚═══════════════╩════════════════════════════════════════╝
 ```
-## 🗝️ Philosophy — The Code That Guides Me
-🚫 Templates bore me.
-🚀 I build for awe.
-🔍 I observe before I disrupt.
-🔥 If it doesn’t spark wonder, it isn’t done.
 
 ## 🌀 Connect or Collide — Choose Your Path
 ```
