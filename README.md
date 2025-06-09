@@ -24,7 +24,7 @@ Ayush Mazumdar
 ⮞ Cyber sentry | Game weaver | Web alchemist
 ⮞ Obsessed with ideas that turn heads and spark minds
 ```
-🧠 Thought Fabric
+## 🧠 Thought Fabric
 ```mermaid
 graph TD;
     Ideas -->|Sketch| Code;
@@ -32,49 +32,51 @@ graph TD;
     Creation -->|Iterate| Imagination;
     Imagination -->|Inspire| Ideas;
 ```
-⚒️ In My Lab
-🌐 CampusVerse
+## ⚒️ In My Lab
 
-🎮 Obstacle Mania
+> *Each a different reality. Each a new experiment.*
 
-🎓 Scholar’s Playground
+- 🌐 [**CampusVerse**](https://aysh-mzmdr.github.io/CampusVerse/)
+- 🎮 [**Obstacle Mania**](https://aysh-mzmdr.github.io/ObstacleMania/)
+- 🎓 [**Scholar’s Playground**](https://aysh-mzmdr.github.io/Scholars_Playground/)
+- 📦 [**Pokedex**](https://aysh-mzmdr.github.io/Pokedex/)
 
-📦 Pokedex
+🔗 *Dive into the mind behind the machine:* [**aysh-mzmdr.github.io**](https://aysh-mzmdr.github.io/)
 
-Each a different reality. Each a new experiment.
-Dive into the mind behind the machine: aysh-mzmdr.github.io
+---
 
-🌌 Digital Soul
-Languages:
-C++, Python, JavaScript, Solidity, C#
+## 🌌 Digital Soul
 
-Frameworks:
-React, Node.js, Express, Unity, GSAP, 3js
+**Languages**  
+`C++` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `Solidity` &nbsp; `C#`
 
-Tools:
-Kali Linux, Git, PostgreSQL, Blender, Figma
+**Frameworks & Libraries**  
+`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `Unity` &nbsp; `GSAP` &nbsp; `Three.js`
 
-Soft Powers:
-Tenacity, Vision, Curiosity
+**Tools**  
+`Kali Linux` &nbsp; `Git` &nbsp; `PostgreSQL` &nbsp; `Blender` &nbsp; `Figma`
 
-🗝️ Philosophy
-🚫 Templates bore me.
+**Soft Powers**  
+`Tenacity` &nbsp; `Vision` &nbsp; `Curiosity`
 
-🚀 I build for awe.
+---
 
-🔍 I observe before I disrupt.
+## 🗝️ Philosophy
 
-🔥 If it doesn’t spark wonder, it isn’t done.
+> 🚫 Templates bore me.  
+> 🚀 I build for awe.  
+> 🔍 I observe before I disrupt.  
+> 🔥 If it doesn’t spark wonder, it isn’t done.
 
-🌀 Connect or Collide
-You’re either creating the storm or watching it pass.
+---
 
-✉️ ayush.mazumdar111@gmail.com
+## 🌀 Connect or Collide
 
-🌐 Portfolio
+> *You’re either creating the storm or watching it pass.*
 
-💼 LinkedIn
-
-👾 GitHub
+- ✉️ **Email:** [ayush.mazumdar111@gmail.com](mailto:ayush.mazumdar111@gmail.com)  
+- 🌐 **Portfolio:** [aysh-mzmdr.github.io](https://aysh-mzmdr.github.io)  
+- 💼 **LinkedIn:** [linkedin.com/in/ayush-mazumdar-3735b731b](https://www.linkedin.com/in/ayush-mazumdar-3735b731b/)  
+- 👾 **GitHub:** [github.com/aysh-mzmdr](https://github.com/aysh-mzmdr)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
