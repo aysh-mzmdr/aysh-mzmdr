@@ -26,8 +26,6 @@ Ayush Mazumdar
 ```
 🧠 Thought Fabric
 ```mermaid
-Copy
-Edit
 graph TD;
     Ideas -->|Sketch| Code;
     Code -->|Forge| Creation;
