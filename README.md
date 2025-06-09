@@ -32,31 +32,6 @@ graph TD;
     Creation -->|Iterate| Imagination;
     Imagination -->|Inspire| Ideas;
 ```
-## ⚒️ In My Lab — Where Realities Collide
-
-
-| 🌐 **CampusVerse**       | 🎮 **Obstacle Mania**      | 🎓 **Scholar’s Playground** | 📦 **Pokedex**            |
-|-------------------------|----------------------------|-----------------------------|---------------------------|
-| [Explore the campus](https://aysh-mzmdr.github.io/CampusVerse/) | [Dodge the impossible](https://aysh-mzmdr.github.io/ObstacleMania/) | [Learn & play](https://aysh-mzmdr.github.io/Scholars_Playground/) | [Catch ’em all](https://aysh-mzmdr.github.io/Pokedex/) |
-
----
-
-## 🌌 Digital Soul — The Elements I Bend
-
-```text
-╔═══════════════╦════════════════════════════════════════╗
-║   LANGUAGES   ║  C++   ·   Python   ·   JavaScript      ║
-║               ║  Solidity   ·   C#                      ║
-╠═══════════════╬════════════════════════════════════════╣
-║ FRAMEWORKS &  ║  React   ·   Node.js   ·   Express       ║
-║ LIBRARIES     ║  Unity   ·   GSAP      ·   Three.js      ║
-╠═══════════════╬════════════════════════════════════════╣
-║     TOOLS     ║  Kali Linux   ·   Git   ·   PostgreSQL   ║
-║               ║  Blender   ·   Figma                     ║
-╠═══════════════╬════════════════════════════════════════╣
-║ SOFT POWERS   ║  Tenacity   ·   Vision   ·   Curiosity   ║
-╚═══════════════╩════════════════════════════════════════╝
-```
 
 ## 🌀 Connect or Collide — Choose Your Path
 ```
