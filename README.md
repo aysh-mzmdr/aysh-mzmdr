@@ -15,19 +15,15 @@
 
 ---
 
-### 🌆 *From Dhanbad, Jharkhand, India* 🇮🇳  
-> _Giving life to ideas, heartbeat to systems_  
-
----  
-
-### 🔥 **Proficient Programmer** - Building logic
-### 💻 **Web Developer** – Bringing ideas to life
-### 🌐 **Blockchain Developer** – Creating Decentralized Applications, the Next Big Thing! 
-### 🛡 **Cyber-Security Enthusiast** – Understanding Data Safety to identify possible Vulnerable Exploits
+#### 🔥 **Proficient Programmer** - Building logic
+#### 💻 **Web Developer** – Bringing ideas to life
+#### 🌐 **Blockchain Developer** – Creating Decentralized Applications, the Next Big Thing! 
+#### 🛡 **Cyber-Security Enthusiast** – Understanding Data Safety to identify possible Vulnerable Exploits
 
 ---
 
-# 🧠 Thought Fabric
+## 🧠 Thought Fabric
+
 ```mermaid
 graph TD;
     Ideas -->|Note| Plan;
