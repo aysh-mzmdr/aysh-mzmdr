@@ -9,8 +9,8 @@
 ---
 
 <blockquote align="center">
-  <b><i>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</i></b><br>
-  — Marcel Proust
+  <b><i>"If you hadn't made that mistake, you wouldn't have learnt the lesson it taught you."</i></b><br>
+  — Ayush Mazumdar
 </blockquote>
 
 ---
@@ -23,6 +23,7 @@ Ayush Mazumdar
 ⮞ Builder of logic, breaker of boundaries
 ⮞ Cyber sentry | Game weaver | Web alchemist
 ⮞ Obsessed with ideas that turn heads and spark minds
+```
 🧠 Thought Fabric
 mermaid
 Copy
