@@ -32,51 +32,56 @@ graph TD;
     Creation -->|Iterate| Imagination;
     Imagination -->|Inspire| Ideas;
 ```
-## ⚒️ In My Lab
+## ⚒️ In My Lab — Where Realities Collide
 
-> *Each a different reality. Each a new experiment.*
+> _“Each project is a universe — forged, explored, and brought to life.”_
 
-- 🌐 [**CampusVerse**](https://aysh-mzmdr.github.io/CampusVerse/)
-- 🎮 [**Obstacle Mania**](https://aysh-mzmdr.github.io/ObstacleMania/)
-- 🎓 [**Scholar’s Playground**](https://aysh-mzmdr.github.io/Scholars_Playground/)
-- 📦 [**Pokedex**](https://aysh-mzmdr.github.io/Pokedex/)
+| 🌐 **CampusVerse**       | 🎮 **Obstacle Mania**      | 🎓 **Scholar’s Playground** | 📦 **Pokedex**            |
+|-------------------------|----------------------------|-----------------------------|---------------------------|
+| [Explore the campus](https://aysh-mzmdr.github.io/CampusVerse/) | [Dodge the impossible](https://aysh-mzmdr.github.io/ObstacleMania/) | [Learn & play](https://aysh-mzmdr.github.io/Scholars_Playground/) | [Catch ’em all](https://aysh-mzmdr.github.io/Pokedex/) |
 
-🔗 *Dive into the mind behind the machine:* [**aysh-mzmdr.github.io**](https://aysh-mzmdr.github.io/)
-
----
-
-## 🌌 Digital Soul
-
-**Languages**  
-`C++` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `Solidity` &nbsp; `C#`
-
-**Frameworks & Libraries**  
-`React` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `Unity` &nbsp; `GSAP` &nbsp; `Three.js`
-
-**Tools**  
-`Kali Linux` &nbsp; `Git` &nbsp; `PostgreSQL` &nbsp; `Blender` &nbsp; `Figma`
-
-**Soft Powers**  
-`Tenacity` &nbsp; `Vision` &nbsp; `Curiosity`
+✨ _Enter the labyrinth of code and creativity:_  
+👉 [**aysh-mzmdr.github.io**](https://aysh-mzmdr.github.io/)
 
 ---
 
-## 🗝️ Philosophy
+## 🌌 Digital Soul — The Elements I Bend
 
-> 🚫 Templates bore me.  
-> 🚀 I build for awe.  
-> 🔍 I observe before I disrupt.  
-> 🔥 If it doesn’t spark wonder, it isn’t done.
+```text
+╔═══════════════╦════════════════════════════════════════╗
+║   LANGUAGES   ║  C++   ·   Python   ·   JavaScript      ║
+║               ║  Solidity   ·   C#                      ║
+╠═══════════════╬════════════════════════════════════════╣
+║ FRAMEWORKS &  ║  React   ·   Node.js   ·   Express       ║
+║ LIBRARIES     ║  Unity   ·   GSAP      ·   Three.js      ║
+╠═══════════════╬════════════════════════════════════════╣
+║     TOOLS     ║  Kali Linux   ·   Git   ·   PostgreSQL   ║
+║               ║  Blender   ·   Figma                     ║
+╠═══════════════╬════════════════════════════════════════╣
+║ SOFT POWERS   ║  Tenacity   ·   Vision   ·   Curiosity   ║
+╚═══════════════╩════════════════════════════════════════╝
+```
+## 🗝️ Philosophy — The Code That Guides Me
+🚫 Templates bore me.
+🚀 I build for awe.
+🔍 I observe before I disrupt.
+🔥 If it doesn’t spark wonder, it isn’t done.
 
----
+## 🌀 Connect or Collide — Choose Your Path
+```
+╔════════════════════════════════════════════════════════════════╗
+║                     ⚡ Reach out & connect ⚡                    ║
+╠════════════════════════════════════════════════════════════════╣
+║ ✉️  Email     │  [ayush.mazumdar111@gmail.com](mailto:ayush.mazumdar111@gmail.com)               ║
+║ 🌐 Portfolio │  [aysh-mzmdr.github.io](https://aysh-mzmdr.github.io)                           ║
+║ 💼 LinkedIn  │  [linkedin.com/in/ayush-mazumdar-3735b731b](https://www.linkedin.com/in/ayush-mazumdar-3735b731b/) ║
+║ 👾 GitHub    │  [github.com/aysh-mzmdr](https://github.com/aysh-mzmdr)                            ║
+╚════════════════════════════════════════════════════════════════╝
+```
+<details> <summary>✨ Pro Tip: Hover over the links — and let the digital magic begin ✨</summary>
+Every click is a portal. Every visit, a spark. Your journey starts here.
 
-## 🌀 Connect or Collide
+</details>
 
-> *You’re either creating the storm or watching it pass.*
-
-- ✉️ **Email:** [ayush.mazumdar111@gmail.com](mailto:ayush.mazumdar111@gmail.com)  
-- 🌐 **Portfolio:** [aysh-mzmdr.github.io](https://aysh-mzmdr.github.io)  
-- 💼 **LinkedIn:** [linkedin.com/in/ayush-mazumdar-3735b731b](https://www.linkedin.com/in/ayush-mazumdar-3735b731b/)  
-- 👾 **GitHub:** [github.com/aysh-mzmdr](https://github.com/aysh-mzmdr)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
