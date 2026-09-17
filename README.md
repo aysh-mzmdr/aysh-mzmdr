@@ -94,4 +94,10 @@ graph TD;
   </a>
 </p>
 
+## Total Public Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysh-mzmdr&style=flat&color=58a6ff&label=Total+Public+Views" />
+</p>
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>
