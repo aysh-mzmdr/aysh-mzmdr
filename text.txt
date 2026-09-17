@@ -1,0 +1,9 @@
+Make SVG for other buttons as well
+Fix topmost image
+Fix connect
+Fix github stats images
+Revert back to the og color for the bottommost waves
+
+About me : Edit the long paragraph. "Refine" to perfection ( Urge to perfection ?)
+
+Code Splitting and stuff ask Claude, based on its response in Claude Web
