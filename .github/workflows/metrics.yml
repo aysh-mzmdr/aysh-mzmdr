@@ -19,7 +19,6 @@ jobs:
           filename: metrics/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          theme: dark
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
