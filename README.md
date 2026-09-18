@@ -7,6 +7,8 @@
   — Ayush Mazumdar
 </blockquote>
 
+## Tech Stack
+
 <p align="center">
   <img src="badges/role-programmer.svg" />
   <img src="badges/role-webdev.svg" />
@@ -14,16 +16,14 @@
   <img src="badges/role-security.svg" />
 </p>
 
-## Tech Stack
-
-<h4 align="center">💻 Languages</h4>
+<p align="center"><img src="badges/title-languages.svg" /></p>
 <p align="center">
   <img src="badges/cpp.svg" />
   <img src="badges/java.svg" />
   <img src="badges/python.svg" />
 </p>
 
-<h4 align="center">🌐 Web Development</h4>
+<p align="center"><img src="badges/title-webdev.svg" /></p>
 <p align="center">
   <img src="badges/react.svg" />
   <img src="badges/nodejs.svg" />
@@ -32,7 +32,7 @@
   <img src="badges/threejs.svg" />
 </p>
 
-<h4 align="center">🛡️ Cyber Security</h4>
+<p align="center"><img src="badges/title-security.svg" /></p>
 <p align="center">
   <img src="badges/kalilinux.svg" />
   <img src="badges/burpsuite.svg" />
