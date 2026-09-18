@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/aysh-mzmdr/aysh-mzmdr/blob/main/1.png" alt="Banner"/>
-</p>
-
 <blockquote align="center">
   <b><i>"If you hadn't made that mistake, you wouldn't have learnt the lesson it taught you."</i></b><br>
   — Ayush Mazumdar
