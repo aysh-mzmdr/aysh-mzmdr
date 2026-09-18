@@ -81,7 +81,7 @@ graph TD;
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aysh_mzmdr">
+  <a href="https://linkedin.com/in/aysh-mzmdr">
     <img src="badges/connect-linkedin.svg" />
   </a>
   <a href="https://aysh-mzmdr.github.io/Portfolio">
