@@ -10,6 +10,7 @@ const USERNAME = process.env.GH_USERNAME || 'aysh-mzmdr';
 const TOKEN = process.env.METRICS_TOKEN;
 const STATE_FILE = path.join(__dirname, '..', 'metrics', 'views-state.json');
 const OUT_FILE = path.join(__dirname, '..', 'metrics', 'total-views.svg');
+const OUT_FILE_RECENT = path.join(__dirname, '..', 'metrics', 'recent-views.svg');
 const FONT_B64 = fs.readFileSync(path.join(__dirname, 'poppins-font-base64.txt'), 'utf8').trim();
 
 if (!TOKEN) {
@@ -74,12 +75,25 @@ async function main() {
   fs.mkdirSync(path.dirname(STATE_FILE), { recursive: true });
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2) + '\n', 'utf8');
 
-  const svg = renderBadge(state.total);
-  fs.writeFileSync(OUT_FILE, svg, 'utf8');
+  // GitHub's own `count` field is already the sum over whatever window the
+  // API just returned (its trailing 14 days), no accumulation needed.
+  const recentTotal = data.count || 0;
+  console.log(`Views in the last 14 days (per GitHub): ${recentTotal}`);
+
+  fs.writeFileSync(OUT_FILE, renderBadge({ value: state.total, suffix: 'Total Public Views', suffixWidth: 120.7, icon: EYE_PATH, bg: '#E07A5F' }), 'utf8');
   console.log('Wrote', OUT_FILE);
+
+  fs.writeFileSync(OUT_FILE_RECENT, renderBadge({ value: recentTotal, suffix: 'Views in Last 14 Days', suffixWidth: 138.78, icon: CALENDAR_PATH, bg: '#58a6ff' }), 'utf8');
+  console.log('Wrote', OUT_FILE_RECENT);
 }
 
-function renderBadge(total) {
+// Material Icons glyphs, 24x24 viewBox, Apache-2.0.
+const EYE_PATH =
+  'M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm0 12.5c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z';
+const CALENDAR_PATH =
+  'M9 11H7v2h2v-2zm4 0h-2v2h2v-2zm4 0h-2v2h2v-2zm2-7h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V9h14v11zM5 7V6h14v1H5z';
+
+function renderBadge({ value, suffix, suffixWidth, icon, bg, fg = '#FFFFFF' }) {
   const HEIGHT = 32;
   const ICON_SIZE = 16;
   const PAD_LEFT = 12;
@@ -87,29 +101,23 @@ function renderBadge(total) {
   const PAD_RIGHT = 14;
   const RADIUS = 6;
   const FONT_SIZE = 13;
-  const BG = '#0d1117';
-  const FG = '#58a6ff';
 
-  const numberStr = total.toLocaleString();
-  const label = `${numberStr} Total Public Views`;
+  const numberStr = value.toLocaleString();
+  const label = `${numberStr} ${suffix}`;
   // Exact Poppins Medium @13px glyph widths (measured offline, since opentype.js
   // isn't worth adding as a runtime dependency just to re-measure this every run):
-  // digit ~8.35px, comma ~2.95px, the fixed suffix " Total Public Views" ~120.7px.
+  // digit ~8.35px, comma ~2.95px, each label's fixed suffix measured separately.
   // A few px of slack is added on top since combined-string kerning shaves a
   // little off the sum of individually-measured glyphs — safe to overshoot
   // (a little empty padding) but not to undershoot (clipped text).
   const digitCount = (numberStr.match(/[0-9]/g) || []).length;
   const commaCount = (numberStr.match(/,/g) || []).length;
-  const textWidth = digitCount * 8.35 + commaCount * 2.95 + 120.7 + 4;
+  const textWidth = digitCount * 8.35 + commaCount * 2.95 + suffixWidth + 4;
   const width = Math.ceil(PAD_LEFT + ICON_SIZE + GAP + textWidth + PAD_RIGHT);
 
   const iconY = (HEIGHT - ICON_SIZE) / 2;
   const textX = PAD_LEFT + ICON_SIZE + GAP;
   const textY = HEIGHT / 2;
-
-  // Material Icons "visibility" (eye) glyph, 24x24 viewBox, Apache-2.0.
-  const eyePath =
-    'M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm0 12.5c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z';
   const scale = ICON_SIZE / 24;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${HEIGHT}" viewBox="0 0 ${width} ${HEIGHT}">
@@ -125,13 +133,13 @@ function renderBadge(total) {
         font-family: 'PoppinsBadge', 'Segoe UI', sans-serif;
         font-weight: 500;
         font-size: ${FONT_SIZE}px;
-        fill: ${FG};
+        fill: ${fg};
       }
     </style>
   </defs>
-  <rect width="${width}" height="${HEIGHT}" rx="${RADIUS}" fill="${BG}"/>
+  <rect width="${width}" height="${HEIGHT}" rx="${RADIUS}" fill="${bg}"/>
   <g transform="translate(${PAD_LEFT}, ${iconY}) scale(${scale})">
-    <path d="${eyePath}" fill="${FG}"/>
+    <path d="${icon}" fill="${fg}"/>
   </g>
   <text x="${textX}" y="${textY}" class="lbl" dominant-baseline="central">${label}</text>
 </svg>`;

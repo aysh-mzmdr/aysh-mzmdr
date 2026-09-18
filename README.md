@@ -9,12 +9,16 @@
 
 ## Tech Stack
 
+<br/>
+
 <p align="center">
   <img src="badges/role-programmer.svg" />
   <img src="badges/role-webdev.svg" />
   <img src="badges/role-blockchain.svg" />
   <img src="badges/role-security.svg" />
 </p>
+
+<br/>
 
 <p align="center"><img src="badges/title-languages.svg" /></p>
 <p align="center">
@@ -92,6 +96,8 @@ graph TD;
 
 <p align="center">
   <img src="metrics/total-views.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="metrics/recent-views.svg" />
 </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd9,100:0d1117&height=120&section=footer&animation=fadeIn&fontColor=ffffff" /> </p>

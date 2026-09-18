@@ -12,10 +12,10 @@
         font-weight: 500;
         font-size: 15px;
         letter-spacing: 3px;
-        fill: #58a6ff;
+        fill: #22D3EE;
       }
     </style>
   </defs>
   <text x="109" y="18" text-anchor="middle" class="section-label">WEB DEVELOPMENT</text>
-  <rect x="93.5" y="28" width="28" height="2" rx="1" fill="#58a6ff"/>
+  <rect x="93.5" y="28" width="28" height="2" rx="1" fill="#22D3EE"/>
 </svg>
