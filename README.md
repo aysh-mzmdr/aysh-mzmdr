@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://github.com/aysh-mzmdr/aysh-mzmdr/blob/main/1.png" alt="Banner"/>
+</p>
+
 <blockquote align="center">
   <b><i>"If you hadn't made that mistake, you wouldn't have learnt the lesson it taught you."</i></b><br>
   — Ayush Mazumdar
 </blockquote>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Proficient+Programmer;Full+Stack+Web+Developer;Blockchain+Developer;Cyber-Security+Enthusiast;Game+Developer" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="badges/role-programmer.svg" />
@@ -13,8 +13,6 @@
   <img src="badges/role-blockchain.svg" />
   <img src="badges/role-security.svg" />
 </p>
-
-
 
 ## Tech Stack
 
