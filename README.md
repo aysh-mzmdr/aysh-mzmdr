@@ -63,7 +63,7 @@
 ## Thought Fabric
 
 ```mermaid
-%%{init: {'flowchart': {'padding': 20, 'nodeSpacing': 60, 'rankSpacing': 70}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'background': '#0d1117', 'primaryColor': '#0d1117', 'primaryBorderColor': '#58a6ff', 'primaryTextColor': '#c9d1d9', 'lineColor': '#58a6ff'}, 'flowchart': {'padding': 20, 'nodeSpacing': 60, 'rankSpacing': 70}}}%%
 graph TD;
     Ideas -->|Note| Plan;
     Plan -->|Build| Creation;
