@@ -18,27 +18,27 @@
   <rect width="495" height="288" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text x="28" y="40" class="title">GitHub Stats</text>
   
-    <text x="82.875" y="90" text-anchor="middle" class="stat-value">503</text>
+    <text x="82.875" y="90" text-anchor="middle" class="stat-value">438</text>
     <text x="82.875" y="110" text-anchor="middle" class="stat-label">Total Commits</text>
-    <text x="192.625" y="90" text-anchor="middle" class="stat-value">37</text>
+    <text x="192.625" y="90" text-anchor="middle" class="stat-value">31</text>
     <text x="192.625" y="110" text-anchor="middle" class="stat-label">Repositories</text>
-    <text x="302.375" y="90" text-anchor="middle" class="stat-value">17</text>
+    <text x="302.375" y="90" text-anchor="middle" class="stat-value">13</text>
     <text x="302.375" y="110" text-anchor="middle" class="stat-label">Watchers</text>
     <text x="412.125" y="90" text-anchor="middle" class="stat-value">16</text>
     <text x="412.125" y="110" text-anchor="middle" class="stat-label">Languages</text>
   <line x1="28" y1="122" x2="467" y2="122" stroke="#30363d" stroke-width="1"/>
   <text x="28" y="152" class="section-title">Most Used Languages</text>
   <rect x="28" y="168" width="439" height="10" rx="5" fill="#161b22"/>
-  <rect x="28.00" y="168" width="346.32" height="10" fill="#f34b7d"/><rect x="374.32" y="168" width="51.35" height="10" fill="#555555"/><rect x="425.67" y="168" width="39.64" height="10" fill="#178600"/><rect x="465.31" y="168" width="2.00" height="10" fill="#8b949e"/><rect x="467.31" y="168" width="2.00" height="10" fill="#f1e05a"/>
+  <rect x="28.00" y="168" width="348.35" height="10" fill="#f34b7d"/><rect x="376.35" y="168" width="51.65" height="10" fill="#555555"/><rect x="428.00" y="168" width="35.96" height="10" fill="#178600"/><rect x="463.96" y="168" width="2.00" height="10" fill="#8b949e"/><rect x="465.96" y="168" width="2.00" height="10" fill="#f1e05a"/>
   
     <circle cx="33" cy="196" r="5" fill="#f34b7d"/>
-    <text x="44" y="200" class="legend-text">C++ <tspan fill="#6e7681">78.9%</tspan></text>
+    <text x="44" y="200" class="legend-text">C++ <tspan fill="#6e7681">79.4%</tspan></text>
     <circle cx="252.5" cy="196" r="5" fill="#555555"/>
-    <text x="263.5" y="200" class="legend-text">C <tspan fill="#6e7681">11.7%</tspan></text>
+    <text x="263.5" y="200" class="legend-text">C <tspan fill="#6e7681">11.8%</tspan></text>
     <circle cx="33" cy="220" r="5" fill="#178600"/>
-    <text x="44" y="224" class="legend-text">C# <tspan fill="#6e7681">9.0%</tspan></text>
+    <text x="44" y="224" class="legend-text">C# <tspan fill="#6e7681">8.2%</tspan></text>
     <circle cx="252.5" cy="220" r="5" fill="#8b949e"/>
-    <text x="263.5" y="224" class="legend-text">ShaderLab <tspan fill="#6e7681">0.1%</tspan></text>
+    <text x="263.5" y="224" class="legend-text">ShaderLab <tspan fill="#6e7681">0.2%</tspan></text>
     <circle cx="33" cy="244" r="5" fill="#f1e05a"/>
-    <text x="44" y="248" class="legend-text">JavaScript <tspan fill="#6e7681">0.1%</tspan></text>
+    <text x="44" y="248" class="legend-text">JavaScript <tspan fill="#6e7681">0.2%</tspan></text>
 </svg>
