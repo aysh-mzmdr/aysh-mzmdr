@@ -18,7 +18,7 @@
   <rect width="495" height="288" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text x="28" y="40" class="title">GitHub Stats</text>
   
-    <text x="82.875" y="90" text-anchor="middle" class="stat-value">443</text>
+    <text x="82.875" y="90" text-anchor="middle" class="stat-value">447</text>
     <text x="82.875" y="110" text-anchor="middle" class="stat-label">Total Commits</text>
     <text x="192.625" y="90" text-anchor="middle" class="stat-value">31</text>
     <text x="192.625" y="110" text-anchor="middle" class="stat-label">Repositories</text>
