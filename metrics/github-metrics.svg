@@ -29,10 +29,10 @@
   <line x1="28" y1="122" x2="467" y2="122" stroke="#30363d" stroke-width="1"/>
   <text x="28" y="152" class="section-title">Most Used Languages</text>
   <rect x="28" y="168" width="439" height="10" rx="5" fill="#161b22"/>
-  <rect x="28.00" y="168" width="294.69" height="10" fill="#178600"/><rect x="322.69" y="168" width="56.77" height="10" fill="#8b949e"/><rect x="379.46" y="168" width="40.15" height="10" fill="#f1e05a"/><rect x="419.61" y="168" width="20.24" height="10" fill="#563d7c"/><rect x="439.85" y="168" width="10.95" height="10" fill="#3572A5"/>
+  <rect x="28.00" y="168" width="294.87" height="10" fill="#178600"/><rect x="322.87" y="168" width="56.70" height="10" fill="#8b949e"/><rect x="379.57" y="168" width="40.10" height="10" fill="#f1e05a"/><rect x="419.67" y="168" width="20.21" height="10" fill="#563d7c"/><rect x="439.88" y="168" width="10.93" height="10" fill="#3572A5"/>
   
     <circle cx="33" cy="196" r="5" fill="#178600"/>
-    <text x="44" y="200" class="legend-text">C# <tspan fill="#6e7681">67.1%</tspan></text>
+    <text x="44" y="200" class="legend-text">C# <tspan fill="#6e7681">67.2%</tspan></text>
     <circle cx="252.5" cy="196" r="5" fill="#8b949e"/>
     <text x="263.5" y="200" class="legend-text">ShaderLab <tspan fill="#6e7681">12.9%</tspan></text>
     <circle cx="33" cy="220" r="5" fill="#f1e05a"/>
